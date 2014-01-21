@@ -19,7 +19,8 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 
-#include <Wire.h>
+#include <USI_TWI_Master.h>
+#include <TinyWireM.h>
 #include "Adafruit_LEDBackpack.h"
 #include "Adafruit_GFX.h"
 
